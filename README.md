@@ -8,6 +8,8 @@ Approach:
 * Anomaly Detection using Clustering - Applied clustering approach to identify anomalies. [kmeans and t-SNE]
 * Anomaly Detection using Classification - Applied classification approach to identify anomalies. [KNN, Isolation Forest and One Class SVM]
 
-Dataset: https://github.com/numenta/NAB/tree/master/data/realKnownCause
+* Dataset: https://github.com/numenta/NAB/tree/master/data/realKnownCause
+
 I am using ambient temperature system failure dataset for doing anomaly detection. 
-Reference: https://iwringer.wordpress.com/2015/11/17/anomaly-detection-concepts-and-techniques/
+
+* Reference: https://iwringer.wordpress.com/2015/11/17/anomaly-detection-concepts-and-techniques/
